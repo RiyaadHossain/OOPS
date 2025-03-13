@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+/*
+    Encapsulation: wrapping up of data and methods into a single unit called class.
+    - Data Hiding: hiding the data from outside the class.
+    - Access Specifiers: public, private, protected.
+*/
 class Student
 {
     //  Attributes with Access Specifiers
