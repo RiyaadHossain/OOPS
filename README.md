@@ -22,6 +22,7 @@ In this GitHub repository, I will learn and store code with notes for the follow
 - Polymorphism
 - Encapsulation
 - Abstraction
+*Resources:* [W3school](https://www.w3schools.com/java/java_oop.asp)
 
 ## SOLID Principles
 
@@ -30,6 +31,7 @@ In this GitHub repository, I will learn and store code with notes for the follow
 - Liskov Substitution Principle
 - Interface Segregation Principle
 - Dependency Inversion Principle
+*Resources:* [freeCodeCamp](https://www.freecodecamp.org/news/solid-principles-for-better-software-design/)
 
 ## Design Patterns
 
